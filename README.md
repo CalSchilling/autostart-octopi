@@ -13,4 +13,4 @@ Add <pre><code>@/home/pi/startTouchUI.sh</pre></code>
 
 to <pre><code>~/.config/lxpanel/LXDE-pi/autostart</pre></code>
 
-<span style="color: red;"> This is untested and will be updated when I get it working 100% </span>
+<strong>This is untested and will be updated when I get it working 100%</strong>
