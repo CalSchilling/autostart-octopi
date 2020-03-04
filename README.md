@@ -1,13 +1,14 @@
 # autostart-octopi
 With Raspberry Pi Debian Buster my startTouchUI.sh has stopped functioning
 
-How to install
+## How to install
 
-<pre><code>cd ~ 
+'''bash 
+cd ~ 
 wget -N https://raw.githubusercontent.com/CalSchilling/autostart-octopi/master/startTouchUI.sh
 chmod +x startTouchUI.sh
 
-</code></pre>
+'''
 
 Add <pre><code>@/home/pi/startTouchUI.sh</pre></code>
 
