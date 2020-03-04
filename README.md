@@ -3,12 +3,12 @@ With Raspberry Pi Debian Buster my startTouchUI.sh has stopped functioning
 
 ## How to install
 
-'''bash 
+```bash 
 cd ~ 
 wget -N https://raw.githubusercontent.com/CalSchilling/autostart-octopi/master/startTouchUI.sh
 chmod +x startTouchUI.sh
 
-'''
+```
 
 Add <pre><code>@/home/pi/startTouchUI.sh</pre></code>
 
